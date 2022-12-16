@@ -23,4 +23,4 @@ jobs:
           BRANCH: main
           FOLDER: dist
           CLEAN: true
-          commit-message: "Deploy by source"
+          commit-message: "Deploy"
