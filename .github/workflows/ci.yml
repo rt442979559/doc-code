@@ -19,7 +19,7 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          repository-name: rt442979559/doc-ci
+          repository-name: rt442979559/doc-code
           BRANCH: main
           FOLDER: dist
           CLEAN: true
